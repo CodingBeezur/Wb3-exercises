@@ -24,5 +24,9 @@ function displayReceipt(totalDue, amountPaid){
 } 
 
 displayMailingLabel("Cesar", "300 E House","Phoenix", "Arizona", "85009" );
+displayMailingLabel("Joe", "500 W Apartment","Tempe", "Arizona", "85042" );
 addNumbers(3,4);
+addNumbers(2,5);
 displayReceipt(10, 5);
+displayReceipt(13, 2);
+
